@@ -1,0 +1,802 @@
+[
+  {
+    "id": 1,
+    "coordinates": {
+      "x": 0,
+      "y": 0
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 2,
+    "coordinates": {
+      "x": 0,
+      "y": 2
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 3,
+    "coordinates": {
+      "x": 0,
+      "y": 4
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 4,
+    "coordinates": {
+      "x": 0,
+      "y": 6
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 5,
+    "coordinates": {
+      "x": 0,
+      "y": 8
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 6,
+    "coordinates": {
+      "x": 0,
+      "y": 10
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 7,
+    "coordinates": {
+      "x": 0,
+      "y": 12
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 8,
+    "coordinates": {
+      "x": 0,
+      "y": 14
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 9,
+    "coordinates": {
+      "x": 0,
+      "y": 16
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 10,
+    "coordinates": {
+      "x": 0,
+      "y": 18
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 11,
+    "coordinates": {
+      "x": 1,
+      "y": 1
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 12,
+    "coordinates": {
+      "x": 1,
+      "y": 3
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 13,
+    "coordinates": {
+      "x": 1,
+      "y": 5
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 14,
+    "coordinates": {
+      "x": 1,
+      "y": 7
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 15,
+    "coordinates": {
+      "x": 1,
+      "y": 9
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 16,
+    "coordinates": {
+      "x": 1,
+      "y": 11
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 17,
+    "coordinates": {
+      "x": 1,
+      "y": 13
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 18,
+    "coordinates": {
+      "x": 1,
+      "y": 15
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 19,
+    "coordinates": {
+      "x": 1,
+      "y": 17
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 20,
+    "coordinates": {
+      "x": 1,
+      "y": 19
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 21,
+    "coordinates": {
+      "x": 2,
+      "y": 0
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 22,
+    "coordinates": {
+      "x": 2,
+      "y": 2
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 23,
+    "coordinates": {
+      "x": 2,
+      "y": 4
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 24,
+    "coordinates": {
+      "x": 2,
+      "y": 6
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 25,
+    "coordinates": {
+      "x": 2,
+      "y": 8
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 26,
+    "coordinates": {
+      "x": 2,
+      "y": 10
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 27,
+    "coordinates": {
+      "x": 2,
+      "y": 12
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 28,
+    "coordinates": {
+      "x": 2,
+      "y": 14
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 29,
+    "coordinates": {
+      "x": 2,
+      "y": 16
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 30,
+    "coordinates": {
+      "x": 2,
+      "y": 18
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 31,
+    "coordinates": {
+      "x": 3,
+      "y": 1
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 32,
+    "coordinates": {
+      "x": 3,
+      "y": 3
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 33,
+    "coordinates": {
+      "x": 3,
+      "y": 5
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 34,
+    "coordinates": {
+      "x": 3,
+      "y": 7
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 35,
+    "coordinates": {
+      "x": 3,
+      "y": 9
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 36,
+    "coordinates": {
+      "x": 3,
+      "y": 11
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 37,
+    "coordinates": {
+      "x": 3,
+      "y": 13
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 38,
+    "coordinates": {
+      "x": 3,
+      "y": 15
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 39,
+    "coordinates": {
+      "x": 3,
+      "y": 17
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 40,
+    "coordinates": {
+      "x": 3,
+      "y": 19
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 41,
+    "coordinates": {
+      "x": 4,
+      "y": 0
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 42,
+    "coordinates": {
+      "x": 4,
+      "y": 2
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 43,
+    "coordinates": {
+      "x": 4,
+      "y": 4
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 44,
+    "coordinates": {
+      "x": 4,
+      "y": 6
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 45,
+    "coordinates": {
+      "x": 4,
+      "y": 8
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 46,
+    "coordinates": {
+      "x": 4,
+      "y": 10
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 47,
+    "coordinates": {
+      "x": 4,
+      "y": 12
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 48,
+    "coordinates": {
+      "x": 4,
+      "y": 14
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 49,
+    "coordinates": {
+      "x": 4,
+      "y": 16
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 50,
+    "coordinates": {
+      "x": 4,
+      "y": 18
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 51,
+    "coordinates": {
+      "x": 5,
+      "y": 1
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 52,
+    "coordinates": {
+      "x": 5,
+      "y": 3
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 53,
+    "coordinates": {
+      "x": 5,
+      "y": 5
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 54,
+    "coordinates": {
+      "x": 5,
+      "y": 7
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 55,
+    "coordinates": {
+      "x": 5,
+      "y": 9
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 56,
+    "coordinates": {
+      "x": 5,
+      "y": 11
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 57,
+    "coordinates": {
+      "x": 5,
+      "y": 13
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 58,
+    "coordinates": {
+      "x": 5,
+      "y": 15
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 59,
+    "coordinates": {
+      "x": 5,
+      "y": 17
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 60,
+    "coordinates": {
+      "x": 5,
+      "y": 19
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 61,
+    "coordinates": {
+      "x": 6,
+      "y": 0
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 62,
+    "coordinates": {
+      "x": 6,
+      "y": 2
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 63,
+    "coordinates": {
+      "x": 6,
+      "y": 4
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 64,
+    "coordinates": {
+      "x": 6,
+      "y": 6
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 65,
+    "coordinates": {
+      "x": 6,
+      "y": 8
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 66,
+    "coordinates": {
+      "x": 6,
+      "y": 10
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 67,
+    "coordinates": {
+      "x": 6,
+      "y": 12
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 68,
+    "coordinates": {
+      "x": 6,
+      "y": 14
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 69,
+    "coordinates": {
+      "x": 6,
+      "y": 16
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 70,
+    "coordinates": {
+      "x": 6,
+      "y": 18
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 71,
+    "coordinates": {
+      "x": 7,
+      "y": 1
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 72,
+    "coordinates": {
+      "x": 7,
+      "y": 3
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 73,
+    "coordinates": {
+      "x": 7,
+      "y": 5
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 74,
+    "coordinates": {
+      "x": 7,
+      "y": 7
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 75,
+    "coordinates": {
+      "x": 7,
+      "y": 9
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 76,
+    "coordinates": {
+      "x": 7,
+      "y": 11
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 77,
+    "coordinates": {
+      "x": 7,
+      "y": 13
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 78,
+    "coordinates": {
+      "x": 7,
+      "y": 15
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 79,
+    "coordinates": {
+      "x": 7,
+      "y": 17
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 80,
+    "coordinates": {
+      "x": 7,
+      "y": 19
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 81,
+    "coordinates": {
+      "x": 8,
+      "y": 0
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 82,
+    "coordinates": {
+      "x": 8,
+      "y": 2
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 83,
+    "coordinates": {
+      "x": 8,
+      "y": 4
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 84,
+    "coordinates": {
+      "x": 8,
+      "y": 6
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 85,
+    "coordinates": {
+      "x": 8,
+      "y": 8
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 86,
+    "coordinates": {
+      "x": 8,
+      "y": 10
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 87,
+    "coordinates": {
+      "x": 8,
+      "y": 12
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 88,
+    "coordinates": {
+      "x": 8,
+      "y": 14
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 89,
+    "coordinates": {
+      "x": 8,
+      "y": 16
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 90,
+    "coordinates": {
+      "x": 8,
+      "y": 18
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 91,
+    "coordinates": {
+      "x": 9,
+      "y": 1
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 92,
+    "coordinates": {
+      "x": 9,
+      "y": 3
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 93,
+    "coordinates": {
+      "x": 9,
+      "y": 5
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 94,
+    "coordinates": {
+      "x": 9,
+      "y": 7
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 95,
+    "coordinates": {
+      "x": 9,
+      "y": 9
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 96,
+    "coordinates": {
+      "x": 9,
+      "y": 11
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 97,
+    "coordinates": {
+      "x": 9,
+      "y": 13
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 98,
+    "coordinates": {
+      "x": 9,
+      "y": 15
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 99,
+    "coordinates": {
+      "x": 9,
+      "y": 17
+    },
+    "category": "VILLAGE"
+  },
+  {
+    "id": 100,
+    "coordinates": {
+      "x": 9,
+      "y": 19
+    },
+    "category": "VILLAGE"
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "farms": [
+    {
+      "id": 0,
+      "name": "Very Cool Farm",
+      "farmsteads": [2],
+      "fields": [0],
+      "plantations": [],
+      "machines": [
+        {
+          "id": 0,
+          "name": "Hans",
+          "actions": ["MOWING"],
+          "plants": ["CHERRY"],
+          "duration": 1,
+          "location": 2
+        }
+      ],
+      "sowingPlans": [
+      ]
+    }
+  ]
+}

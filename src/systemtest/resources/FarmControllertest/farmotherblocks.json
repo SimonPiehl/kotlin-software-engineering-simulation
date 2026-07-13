@@ -1,0 +1,59 @@
+{
+  "farms": [
+    {
+      "id": 0,
+      "name": "Very Cool Farm",
+      "farmsteads": [0],
+      "fields": [],
+      "plantations": [1,2,3,4,6],
+      "machines": [
+        {
+          "id": 6,
+          "name": "Tractor",
+          "actions": ["MOWING", "HARVESTING", "CUTTING", "IRRIGATING"],
+          "plants": ["APPLE"],
+          "duration": 1,
+          "location": 0
+        },
+        {
+          "id": 4,
+          "name": "Tr",
+          "actions": ["MOWING", "HARVESTING", "CUTTING", "IRRIGATING"],
+          "plants": ["APPLE"],
+          "duration": 3,
+          "location": 0
+        }
+      ],
+      "sowingPlans": [
+      ]
+    },
+    {
+    "id": 2,
+    "name": "Very Cool Frm",
+    "farmsteads": [69],
+    "fields": [],
+    "plantations": [5],
+    "machines": [
+      {
+        "id": 95,
+        "name": "Tracto",
+        "actions": ["MOWING", "HARVESTING", "CUTTING", "IRRIGATING"],
+        "plants": ["APPLE"],
+        "duration": 1,
+        "location": 69
+      },
+      {
+        "id": 15,
+        "name": "Tr6",
+        "actions": ["MOWING", "HARVESTING", "CUTTING", "IRRIGATING"],
+        "plants": ["APPLE"],
+        "duration": 3,
+        "location": 69
+      }
+    ],
+    "sowingPlans": [
+    ]
+    }
+
+  ]
+}

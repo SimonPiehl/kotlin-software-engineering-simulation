@@ -1,0 +1,79 @@
+{
+  "farms": [
+    {
+      "id": 0,
+      "name": "Very Cool Farm",
+      "farmsteads": [0],
+      "fields": [5,6,7,8],
+      "plantations": [1,2,3,4],
+      "machines": [
+        {
+          "id": 0,
+          "name": "AppleMachine",
+          "actions": ["IRRIGATING", "CUTTING", "HARVESTING", "MOWING"],
+          "plants": ["APPLE"],
+          "duration": 4,
+          "location": 0
+        },
+        {
+          "id": 1,
+          "name": "AlmondMachine",
+          "actions": ["IRRIGATING", "CUTTING", "HARVESTING", "MOWING"],
+          "plants": ["ALMOND"],
+          "duration": 4,
+          "location": 0
+        },
+        {
+          "id": 2,
+          "name": "CherryMachine",
+          "actions": ["IRRIGATING", "CUTTING", "HARVESTING", "MOWING"],
+          "plants": ["CHERRY"],
+          "duration": 4,
+          "location": 0
+        },
+        {
+          "id": 3,
+          "name": "GrapeMachine",
+          "actions": ["IRRIGATING", "CUTTING", "HARVESTING", "MOWING"],
+          "plants": ["GRAPE"],
+          "duration": 4,
+          "location": 0
+        },
+        {
+          "id": 4,
+          "name": "PotatoMachine",
+          "actions": ["IRRIGATING", "WEEDING", "HARVESTING", "SOWING"],
+          "plants": ["POTATO"],
+          "duration": 4,
+          "location": 0
+        },
+        {
+          "id": 5,
+          "name": "PumpMachine",
+          "actions": ["IRRIGATING", "WEEDING", "HARVESTING", "SOWING"],
+          "plants": ["PUMPKIN"],
+          "duration": 4,
+          "location": 0
+        },
+        {
+          "id": 6,
+          "name": "OatMachine",
+          "actions": ["IRRIGATING", "WEEDING", "HARVESTING", "SOWING"],
+          "plants": ["OAT"],
+          "duration": 4,
+          "location": 0
+        },
+        {
+          "id": 7,
+          "name": "WheatMachine",
+          "actions": ["IRRIGATING", "WEEDING", "HARVESTING", "SOWING"],
+          "plants": ["WHEAT"],
+          "duration": 4,
+          "location": 0
+        }
+      ],
+      "sowingPlans": [
+      ]
+    }
+  ]
+}

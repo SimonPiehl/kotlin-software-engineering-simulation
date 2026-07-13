@@ -1,0 +1,326 @@
+[INFO] Initialization Info: map.json successfully parsed and validated.
+[INFO] Initialization Info: farms.json successfully parsed and validated.
+[INFO] Initialization Info: scenario.json successfully parsed and validated.
+[INFO] Simulation Info: Simulation started at tick 5 within the year.
+[INFO] Simulation Info: Tick 0 started at tick 5 within the year.
+[INFO] Soil Moisture: The soil moisture is below threshold in 0 FIELD and 0 PLANTATION tiles.
+[INFO] Cloud Movement: Cloud 0 with 400 L water moved from tile 1 to tile 7.
+[DEBUG] Cloud Movement: On tile 1, the amount of sunlight is 123.
+[INFO] Cloud Movement: Cloud 0 with 400 L water moved from tile 7 to tile 8.
+[INFO] Cloud Movement: Cloud 0 with 400 L water moved from tile 8 to tile 2.
+[INFO] Cloud Movement: Cloud 0 with 400 L water moved from tile 2 to tile 9.
+[DEBUG] Cloud Movement: On tile 2, the amount of sunlight is 123.
+[IMPORTANT] Farm: Farm 0 starts its actions.
+[DEBUG] Farm: Farm 0 has the following active sowing plans it intends to pursue in this tick: .
+[IMPORTANT] Farm: Farm 0 finished its actions.
+[INFO] Harvest Estimate: Harvest estimate on tile 2 changed to 1377000 g of APPLE.
+[INFO] Simulation Info: Tick 1 started at tick 6 within the year.
+[INFO] Soil Moisture: The soil moisture is below threshold in 0 FIELD and 0 PLANTATION tiles.
+[IMPORTANT] Farm: Farm 0 starts its actions.
+[DEBUG] Farm: Farm 0 has the following active sowing plans it intends to pursue in this tick: .
+[IMPORTANT] Farm: Farm 0 finished its actions.
+[IMPORTANT] Incident: Incident 1 of type BEE_HAPPY happened and affected tiles .
+[IMPORTANT] Incident: Incident 2 of type BEE_HAPPY happened and affected tiles .
+[IMPORTANT] Incident: Incident 3 of type DROUGHT happened and affected tiles 1.
+[INFO] Harvest Estimate: Harvest estimate on tile 2 changed to 1003833 g of APPLE.
+[INFO] Simulation Info: Tick 2 started at tick 7 within the year.
+[INFO] Soil Moisture: The soil moisture is below threshold in 0 FIELD and 0 PLANTATION tiles.
+[IMPORTANT] Farm: Farm 0 starts its actions.
+[DEBUG] Farm: Farm 0 has the following active sowing plans it intends to pursue in this tick: 0.
+[IMPORTANT] Farm: Farm 0 finished its actions.
+[INFO] Harvest Estimate: Harvest estimate on tile 2 changed to 731793 g of APPLE.
+[INFO] Simulation Info: Tick 3 started at tick 8 within the year.
+[INFO] Soil Moisture: The soil moisture is below threshold in 0 FIELD and 0 PLANTATION tiles.
+[IMPORTANT] Farm: Farm 0 starts its actions.
+[DEBUG] Farm: Farm 0 has the following active sowing plans it intends to pursue in this tick: 0.
+[IMPORTANT] Farm: Farm 0 finished its actions.
+[INFO] Harvest Estimate: Harvest estimate on tile 2 changed to 533475 g of APPLE.
+[INFO] Simulation Info: Tick 4 started at tick 9 within the year.
+[INFO] Soil Moisture: The soil moisture is below threshold in 0 FIELD and 0 PLANTATION tiles.
+[IMPORTANT] Farm: Farm 0 starts its actions.
+[DEBUG] Farm: Farm 0 has the following active sowing plans it intends to pursue in this tick: 0.
+[IMPORTANT] Farm: Farm 0 finished its actions.
+[INFO] Harvest Estimate: Harvest estimate on tile 2 changed to 350011 g of APPLE.
+[INFO] Simulation Info: Tick 5 started at tick 10 within the year.
+[INFO] Soil Moisture: The soil moisture is below threshold in 0 FIELD and 0 PLANTATION tiles.
+[IMPORTANT] Farm: Farm 0 starts its actions.
+[DEBUG] Farm: Farm 0 has the following active sowing plans it intends to pursue in this tick: 0.
+[IMPORTANT] Farm: Farm 0 finished its actions.
+[INFO] Harvest Estimate: Harvest estimate on tile 2 changed to 229641 g of APPLE.
+[INFO] Simulation Info: Tick 6 started at tick 11 within the year.
+[INFO] Soil Moisture: The soil moisture is below threshold in 0 FIELD and 0 PLANTATION tiles.
+[IMPORTANT] Farm: Farm 0 starts its actions.
+[DEBUG] Farm: Farm 0 has the following active sowing plans it intends to pursue in this tick: 0.
+[IMPORTANT] Farm Action: Machine 1 performs MOWING on tile 2 for 1 days.
+[IMPORTANT] Farm Machine: Machine 1 is finished and returns to the shed at 0.
+[IMPORTANT] Farm: Farm 0 finished its actions.
+[INFO] Harvest Estimate: Harvest estimate on tile 2 changed to 150666 g of APPLE.
+[INFO] Simulation Info: Tick 7 started at tick 12 within the year.
+[INFO] Soil Moisture: The soil moisture is below threshold in 0 FIELD and 0 PLANTATION tiles.
+[IMPORTANT] Farm: Farm 0 starts its actions.
+[DEBUG] Farm: Farm 0 has the following active sowing plans it intends to pursue in this tick: 0.
+[IMPORTANT] Farm: Farm 0 finished its actions.
+[INFO] Harvest Estimate: Harvest estimate on tile 2 changed to 98851 g of APPLE.
+[INFO] Simulation Info: Tick 8 started at tick 13 within the year.
+[INFO] Soil Moisture: The soil moisture is below threshold in 0 FIELD and 0 PLANTATION tiles.
+[IMPORTANT] Farm: Farm 0 starts its actions.
+[DEBUG] Farm: Farm 0 has the following active sowing plans it intends to pursue in this tick: 0.
+[IMPORTANT] Farm: Farm 0 finished its actions.
+[INFO] Harvest Estimate: Harvest estimate on tile 2 changed to 64854 g of APPLE.
+[INFO] Simulation Info: Tick 9 started at tick 14 within the year.
+[INFO] Soil Moisture: The soil moisture is below threshold in 0 FIELD and 0 PLANTATION tiles.
+[IMPORTANT] Farm: Farm 0 starts its actions.
+[DEBUG] Farm: Farm 0 has the following active sowing plans it intends to pursue in this tick: 0.
+[IMPORTANT] Farm: Farm 0 finished its actions.
+[INFO] Harvest Estimate: Harvest estimate on tile 2 changed to 42549 g of APPLE.
+[INFO] Simulation Info: Tick 10 started at tick 15 within the year.
+[INFO] Soil Moisture: The soil moisture is below threshold in 0 FIELD and 0 PLANTATION tiles.
+[IMPORTANT] Farm: Farm 0 starts its actions.
+[DEBUG] Farm: Farm 0 has the following active sowing plans it intends to pursue in this tick: 0.
+[IMPORTANT] Farm: Farm 0 finished its actions.
+[INFO] Harvest Estimate: Harvest estimate on tile 2 changed to 27915 g of APPLE.
+[INFO] Simulation Info: Tick 11 started at tick 16 within the year.
+[INFO] Soil Moisture: The soil moisture is below threshold in 0 FIELD and 0 PLANTATION tiles.
+[IMPORTANT] Farm: Farm 0 starts its actions.
+[DEBUG] Farm: Farm 0 has the following active sowing plans it intends to pursue in this tick: 0.
+[IMPORTANT] Farm: Farm 0 finished its actions.
+[INFO] Harvest Estimate: Harvest estimate on tile 2 changed to 18314 g of APPLE.
+[INFO] Simulation Info: Tick 12 started at tick 17 within the year.
+[INFO] Soil Moisture: The soil moisture is below threshold in 0 FIELD and 0 PLANTATION tiles.
+[IMPORTANT] Farm: Farm 0 starts its actions.
+[DEBUG] Farm: Farm 0 has the following active sowing plans it intends to pursue in this tick: 0.
+[IMPORTANT] Farm Action: Machine 1 performs HARVESTING on tile 2 for 1 days.
+[IMPORTANT] Farm Harvest: Machine 1 has collected 18314 g of APPLE harvest.
+[IMPORTANT] Farm Machine: Machine 1 is finished and returns to the shed at 0.
+[IMPORTANT] Farm Machine: Machine 1 unloads 18314 g of APPLE harvest in the shed.
+[IMPORTANT] Farm: Farm 0 finished its actions.
+[INFO] Simulation Info: Tick 13 started at tick 18 within the year.
+[INFO] Soil Moisture: The soil moisture is below threshold in 0 FIELD and 0 PLANTATION tiles.
+[IMPORTANT] Farm: Farm 0 starts its actions.
+[DEBUG] Farm: Farm 0 has the following active sowing plans it intends to pursue in this tick: 0.
+[IMPORTANT] Farm: Farm 0 finished its actions.
+[INFO] Simulation Info: Tick 14 started at tick 19 within the year.
+[INFO] Soil Moisture: The soil moisture is below threshold in 0 FIELD and 0 PLANTATION tiles.
+[IMPORTANT] Farm: Farm 0 starts its actions.
+[DEBUG] Farm: Farm 0 has the following active sowing plans it intends to pursue in this tick: 0.
+[IMPORTANT] Farm Action: Machine 0 performs SOWING on tile 1 for 1 days.
+[IMPORTANT] Farm Sowing: Machine 0 has sowed WHEAT according to sowing plan 0.
+[IMPORTANT] Farm Machine: Machine 0 is finished and returns to the shed at 0.
+[IMPORTANT] Farm: Farm 0 finished its actions.
+[DEBUG] Harvest Estimate: Required actions on tile 1 were not performed: IRRIGATING.
+[INFO] Harvest Estimate: Harvest estimate on tile 1 changed to 0 g of WHEAT.
+[INFO] Simulation Info: Tick 15 started at tick 20 within the year.
+[INFO] Soil Moisture: The soil moisture is below threshold in 0 FIELD and 0 PLANTATION tiles.
+[IMPORTANT] Farm: Farm 0 starts its actions.
+[DEBUG] Farm: Farm 0 has the following active sowing plans it intends to pursue in this tick: .
+[IMPORTANT] Farm: Farm 0 finished its actions.
+[INFO] Simulation Info: Tick 16 started at tick 21 within the year.
+[INFO] Soil Moisture: The soil moisture is below threshold in 0 FIELD and 0 PLANTATION tiles.
+[IMPORTANT] Farm: Farm 0 starts its actions.
+[DEBUG] Farm: Farm 0 has the following active sowing plans it intends to pursue in this tick: .
+[IMPORTANT] Farm Action: Machine 1 performs CUTTING on tile 2 for 1 days.
+[IMPORTANT] Farm Machine: Machine 1 is finished and returns to the shed at 0.
+[IMPORTANT] Farm: Farm 0 finished its actions.
+[INFO] Harvest Estimate: Harvest estimate on tile 2 changed to 1530000 g of APPLE.
+[INFO] Simulation Info: Tick 17 started at tick 22 within the year.
+[INFO] Soil Moisture: The soil moisture is below threshold in 0 FIELD and 0 PLANTATION tiles.
+[IMPORTANT] Farm: Farm 0 starts its actions.
+[DEBUG] Farm: Farm 0 has the following active sowing plans it intends to pursue in this tick: .
+[IMPORTANT] Farm: Farm 0 finished its actions.
+[INFO] Harvest Estimate: Harvest estimate on tile 2 changed to 1377000 g of APPLE.
+[INFO] Simulation Info: Tick 18 started at tick 23 within the year.
+[INFO] Soil Moisture: The soil moisture is below threshold in 0 FIELD and 0 PLANTATION tiles.
+[IMPORTANT] Farm: Farm 0 starts its actions.
+[DEBUG] Farm: Farm 0 has the following active sowing plans it intends to pursue in this tick: .
+[IMPORTANT] Farm: Farm 0 finished its actions.
+[INFO] Harvest Estimate: Harvest estimate on tile 2 changed to 1239300 g of APPLE.
+[INFO] Simulation Info: Tick 19 started at tick 24 within the year.
+[INFO] Soil Moisture: The soil moisture is below threshold in 0 FIELD and 0 PLANTATION tiles.
+[IMPORTANT] Farm: Farm 0 starts its actions.
+[DEBUG] Farm: Farm 0 has the following active sowing plans it intends to pursue in this tick: .
+[IMPORTANT] Farm: Farm 0 finished its actions.
+[INFO] Harvest Estimate: Harvest estimate on tile 2 changed to 1115370 g of APPLE.
+[INFO] Simulation Info: Tick 20 started at tick 1 within the year.
+[INFO] Soil Moisture: The soil moisture is below threshold in 0 FIELD and 0 PLANTATION tiles.
+[IMPORTANT] Farm: Farm 0 starts its actions.
+[DEBUG] Farm: Farm 0 has the following active sowing plans it intends to pursue in this tick: .
+[IMPORTANT] Farm: Farm 0 finished its actions.
+[INFO] Harvest Estimate: Harvest estimate on tile 2 changed to 1003833 g of APPLE.
+[INFO] Simulation Info: Tick 21 started at tick 2 within the year.
+[INFO] Soil Moisture: The soil moisture is below threshold in 0 FIELD and 0 PLANTATION tiles.
+[IMPORTANT] Farm: Farm 0 starts its actions.
+[DEBUG] Farm: Farm 0 has the following active sowing plans it intends to pursue in this tick: .
+[IMPORTANT] Farm: Farm 0 finished its actions.
+[INFO] Harvest Estimate: Harvest estimate on tile 2 changed to 903449 g of APPLE.
+[INFO] Simulation Info: Tick 22 started at tick 3 within the year.
+[INFO] Soil Moisture: The soil moisture is below threshold in 0 FIELD and 0 PLANTATION tiles.
+[IMPORTANT] Farm: Farm 0 starts its actions.
+[DEBUG] Farm: Farm 0 has the following active sowing plans it intends to pursue in this tick: .
+[IMPORTANT] Farm: Farm 0 finished its actions.
+[INFO] Harvest Estimate: Harvest estimate on tile 2 changed to 731793 g of APPLE.
+[INFO] Simulation Info: Tick 23 started at tick 4 within the year.
+[INFO] Soil Moisture: The soil moisture is below threshold in 0 FIELD and 0 PLANTATION tiles.
+[IMPORTANT] Farm: Farm 0 starts its actions.
+[DEBUG] Farm: Farm 0 has the following active sowing plans it intends to pursue in this tick: .
+[IMPORTANT] Farm: Farm 0 finished its actions.
+[INFO] Harvest Estimate: Harvest estimate on tile 2 changed to 592751 g of APPLE.
+[INFO] Simulation Info: Tick 24 started at tick 5 within the year.
+[INFO] Soil Moisture: The soil moisture is below threshold in 0 FIELD and 0 PLANTATION tiles.
+[IMPORTANT] Farm: Farm 0 starts its actions.
+[DEBUG] Farm: Farm 0 has the following active sowing plans it intends to pursue in this tick: .
+[IMPORTANT] Farm: Farm 0 finished its actions.
+[INFO] Harvest Estimate: Harvest estimate on tile 2 changed to 432114 g of APPLE.
+[INFO] Simulation Info: Tick 25 started at tick 6 within the year.
+[INFO] Soil Moisture: The soil moisture is below threshold in 0 FIELD and 0 PLANTATION tiles.
+[IMPORTANT] Farm: Farm 0 starts its actions.
+[DEBUG] Farm: Farm 0 has the following active sowing plans it intends to pursue in this tick: .
+[IMPORTANT] Farm: Farm 0 finished its actions.
+[INFO] Harvest Estimate: Harvest estimate on tile 2 changed to 315009 g of APPLE.
+[INFO] Simulation Info: Tick 26 started at tick 7 within the year.
+[INFO] Soil Moisture: The soil moisture is below threshold in 0 FIELD and 0 PLANTATION tiles.
+[IMPORTANT] Farm: Farm 0 starts its actions.
+[DEBUG] Farm: Farm 0 has the following active sowing plans it intends to pursue in this tick: .
+[IMPORTANT] Farm: Farm 0 finished its actions.
+[INFO] Harvest Estimate: Harvest estimate on tile 2 changed to 229641 g of APPLE.
+[INFO] Simulation Info: Tick 27 started at tick 8 within the year.
+[INFO] Soil Moisture: The soil moisture is below threshold in 0 FIELD and 0 PLANTATION tiles.
+[IMPORTANT] Farm: Farm 0 starts its actions.
+[DEBUG] Farm: Farm 0 has the following active sowing plans it intends to pursue in this tick: .
+[IMPORTANT] Farm: Farm 0 finished its actions.
+[INFO] Harvest Estimate: Harvest estimate on tile 2 changed to 167407 g of APPLE.
+[INFO] Simulation Info: Tick 28 started at tick 9 within the year.
+[INFO] Soil Moisture: The soil moisture is below threshold in 0 FIELD and 0 PLANTATION tiles.
+[IMPORTANT] Farm: Farm 0 starts its actions.
+[DEBUG] Farm: Farm 0 has the following active sowing plans it intends to pursue in this tick: .
+[IMPORTANT] Farm: Farm 0 finished its actions.
+[INFO] Harvest Estimate: Harvest estimate on tile 2 changed to 109835 g of APPLE.
+[INFO] Simulation Info: Tick 29 started at tick 10 within the year.
+[INFO] Soil Moisture: The soil moisture is below threshold in 0 FIELD and 0 PLANTATION tiles.
+[IMPORTANT] Farm: Farm 0 starts its actions.
+[DEBUG] Farm: Farm 0 has the following active sowing plans it intends to pursue in this tick: .
+[IMPORTANT] Farm: Farm 0 finished its actions.
+[INFO] Harvest Estimate: Harvest estimate on tile 2 changed to 72061 g of APPLE.
+[INFO] Simulation Info: Tick 30 started at tick 11 within the year.
+[INFO] Soil Moisture: The soil moisture is below threshold in 0 FIELD and 0 PLANTATION tiles.
+[IMPORTANT] Farm: Farm 0 starts its actions.
+[DEBUG] Farm: Farm 0 has the following active sowing plans it intends to pursue in this tick: .
+[IMPORTANT] Farm Action: Machine 1 performs MOWING on tile 2 for 1 days.
+[IMPORTANT] Farm Machine: Machine 1 is finished and returns to the shed at 0.
+[IMPORTANT] Farm: Farm 0 finished its actions.
+[INFO] Harvest Estimate: Harvest estimate on tile 2 changed to 47277 g of APPLE.
+[INFO] Simulation Info: Tick 31 started at tick 12 within the year.
+[INFO] Soil Moisture: The soil moisture is below threshold in 0 FIELD and 0 PLANTATION tiles.
+[IMPORTANT] Farm: Farm 0 starts its actions.
+[DEBUG] Farm: Farm 0 has the following active sowing plans it intends to pursue in this tick: .
+[IMPORTANT] Farm: Farm 0 finished its actions.
+[INFO] Harvest Estimate: Harvest estimate on tile 2 changed to 31017 g of APPLE.
+[INFO] Simulation Info: Tick 32 started at tick 13 within the year.
+[INFO] Soil Moisture: The soil moisture is below threshold in 0 FIELD and 0 PLANTATION tiles.
+[IMPORTANT] Farm: Farm 0 starts its actions.
+[DEBUG] Farm: Farm 0 has the following active sowing plans it intends to pursue in this tick: .
+[IMPORTANT] Farm: Farm 0 finished its actions.
+[INFO] Harvest Estimate: Harvest estimate on tile 2 changed to 20349 g of APPLE.
+[INFO] Simulation Info: Tick 33 started at tick 14 within the year.
+[INFO] Soil Moisture: The soil moisture is below threshold in 0 FIELD and 0 PLANTATION tiles.
+[IMPORTANT] Farm: Farm 0 starts its actions.
+[DEBUG] Farm: Farm 0 has the following active sowing plans it intends to pursue in this tick: .
+[IMPORTANT] Farm: Farm 0 finished its actions.
+[INFO] Harvest Estimate: Harvest estimate on tile 2 changed to 13349 g of APPLE.
+[INFO] Simulation Info: Tick 34 started at tick 15 within the year.
+[INFO] Soil Moisture: The soil moisture is below threshold in 0 FIELD and 0 PLANTATION tiles.
+[IMPORTANT] Farm: Farm 0 starts its actions.
+[DEBUG] Farm: Farm 0 has the following active sowing plans it intends to pursue in this tick: .
+[IMPORTANT] Farm: Farm 0 finished its actions.
+[INFO] Harvest Estimate: Harvest estimate on tile 2 changed to 8757 g of APPLE.
+[INFO] Simulation Info: Tick 35 started at tick 16 within the year.
+[INFO] Soil Moisture: The soil moisture is below threshold in 0 FIELD and 0 PLANTATION tiles.
+[IMPORTANT] Farm: Farm 0 starts its actions.
+[DEBUG] Farm: Farm 0 has the following active sowing plans it intends to pursue in this tick: .
+[IMPORTANT] Farm: Farm 0 finished its actions.
+[INFO] Harvest Estimate: Harvest estimate on tile 2 changed to 5743 g of APPLE.
+[INFO] Simulation Info: Tick 36 started at tick 17 within the year.
+[INFO] Soil Moisture: The soil moisture is below threshold in 0 FIELD and 0 PLANTATION tiles.
+[IMPORTANT] Farm: Farm 0 starts its actions.
+[DEBUG] Farm: Farm 0 has the following active sowing plans it intends to pursue in this tick: .
+[IMPORTANT] Farm Action: Machine 1 performs HARVESTING on tile 2 for 1 days.
+[IMPORTANT] Farm Harvest: Machine 1 has collected 5743 g of APPLE harvest.
+[IMPORTANT] Farm Machine: Machine 1 is finished and returns to the shed at 0.
+[IMPORTANT] Farm Machine: Machine 1 unloads 5743 g of APPLE harvest in the shed.
+[IMPORTANT] Farm: Farm 0 finished its actions.
+[INFO] Simulation Info: Tick 37 started at tick 18 within the year.
+[INFO] Soil Moisture: The soil moisture is below threshold in 0 FIELD and 0 PLANTATION tiles.
+[IMPORTANT] Farm: Farm 0 starts its actions.
+[DEBUG] Farm: Farm 0 has the following active sowing plans it intends to pursue in this tick: .
+[IMPORTANT] Farm: Farm 0 finished its actions.
+[INFO] Simulation Info: Tick 38 started at tick 19 within the year.
+[INFO] Soil Moisture: The soil moisture is below threshold in 0 FIELD and 0 PLANTATION tiles.
+[IMPORTANT] Farm: Farm 0 starts its actions.
+[DEBUG] Farm: Farm 0 has the following active sowing plans it intends to pursue in this tick: .
+[IMPORTANT] Farm: Farm 0 finished its actions.
+[INFO] Simulation Info: Tick 39 started at tick 20 within the year.
+[INFO] Soil Moisture: The soil moisture is below threshold in 0 FIELD and 0 PLANTATION tiles.
+[IMPORTANT] Farm: Farm 0 starts its actions.
+[DEBUG] Farm: Farm 0 has the following active sowing plans it intends to pursue in this tick: .
+[IMPORTANT] Farm: Farm 0 finished its actions.
+[INFO] Simulation Info: Tick 40 started at tick 21 within the year.
+[INFO] Soil Moisture: The soil moisture is below threshold in 0 FIELD and 0 PLANTATION tiles.
+[IMPORTANT] Farm: Farm 0 starts its actions.
+[DEBUG] Farm: Farm 0 has the following active sowing plans it intends to pursue in this tick: .
+[IMPORTANT] Farm Action: Machine 1 performs CUTTING on tile 2 for 1 days.
+[IMPORTANT] Farm Machine: Machine 1 is finished and returns to the shed at 0.
+[IMPORTANT] Farm: Farm 0 finished its actions.
+[INFO] Harvest Estimate: Harvest estimate on tile 2 changed to 1530000 g of APPLE.
+[INFO] Simulation Info: Tick 41 started at tick 22 within the year.
+[INFO] Soil Moisture: The soil moisture is below threshold in 0 FIELD and 0 PLANTATION tiles.
+[IMPORTANT] Farm: Farm 0 starts its actions.
+[DEBUG] Farm: Farm 0 has the following active sowing plans it intends to pursue in this tick: .
+[IMPORTANT] Farm: Farm 0 finished its actions.
+[INFO] Harvest Estimate: Harvest estimate on tile 2 changed to 1377000 g of APPLE.
+[INFO] Simulation Info: Tick 42 started at tick 23 within the year.
+[INFO] Soil Moisture: The soil moisture is below threshold in 0 FIELD and 0 PLANTATION tiles.
+[IMPORTANT] Farm: Farm 0 starts its actions.
+[DEBUG] Farm: Farm 0 has the following active sowing plans it intends to pursue in this tick: .
+[IMPORTANT] Farm: Farm 0 finished its actions.
+[INFO] Harvest Estimate: Harvest estimate on tile 2 changed to 1239300 g of APPLE.
+[INFO] Simulation Info: Tick 43 started at tick 24 within the year.
+[INFO] Soil Moisture: The soil moisture is below threshold in 0 FIELD and 0 PLANTATION tiles.
+[IMPORTANT] Farm: Farm 0 starts its actions.
+[DEBUG] Farm: Farm 0 has the following active sowing plans it intends to pursue in this tick: .
+[IMPORTANT] Farm: Farm 0 finished its actions.
+[INFO] Harvest Estimate: Harvest estimate on tile 2 changed to 1115370 g of APPLE.
+[INFO] Simulation Info: Tick 44 started at tick 1 within the year.
+[INFO] Soil Moisture: The soil moisture is below threshold in 0 FIELD and 0 PLANTATION tiles.
+[IMPORTANT] Farm: Farm 0 starts its actions.
+[DEBUG] Farm: Farm 0 has the following active sowing plans it intends to pursue in this tick: .
+[IMPORTANT] Farm: Farm 0 finished its actions.
+[INFO] Harvest Estimate: Harvest estimate on tile 2 changed to 1003833 g of APPLE.
+[INFO] Simulation Info: Tick 45 started at tick 2 within the year.
+[INFO] Soil Moisture: The soil moisture is below threshold in 0 FIELD and 0 PLANTATION tiles.
+[IMPORTANT] Farm: Farm 0 starts its actions.
+[DEBUG] Farm: Farm 0 has the following active sowing plans it intends to pursue in this tick: .
+[IMPORTANT] Farm: Farm 0 finished its actions.
+[INFO] Harvest Estimate: Harvest estimate on tile 2 changed to 903449 g of APPLE.
+[INFO] Simulation Info: Tick 46 started at tick 3 within the year.
+[INFO] Soil Moisture: The soil moisture is below threshold in 0 FIELD and 0 PLANTATION tiles.
+[IMPORTANT] Farm: Farm 0 starts its actions.
+[DEBUG] Farm: Farm 0 has the following active sowing plans it intends to pursue in this tick: .
+[IMPORTANT] Farm: Farm 0 finished its actions.
+[INFO] Harvest Estimate: Harvest estimate on tile 2 changed to 731793 g of APPLE.
+[INFO] Simulation Info: Tick 47 started at tick 4 within the year.
+[INFO] Soil Moisture: The soil moisture is below threshold in 0 FIELD and 0 PLANTATION tiles.
+[IMPORTANT] Farm: Farm 0 starts its actions.
+[DEBUG] Farm: Farm 0 has the following active sowing plans it intends to pursue in this tick: .
+[IMPORTANT] Farm: Farm 0 finished its actions.
+[INFO] Harvest Estimate: Harvest estimate on tile 2 changed to 592751 g of APPLE.
+[IMPORTANT] Simulation Info: Simulation ended at tick 48.
+[IMPORTANT] Simulation Info: Simulation statistics are calculated.
+[IMPORTANT] Simulation Statistics: Farm 0 collected 24057 g of harvest.
+[IMPORTANT] Simulation Statistics: Total amount of POTATO harvested: 0 g.
+[IMPORTANT] Simulation Statistics: Total amount of WHEAT harvested: 0 g.
+[IMPORTANT] Simulation Statistics: Total amount of OAT harvested: 0 g.
+[IMPORTANT] Simulation Statistics: Total amount of PUMPKIN harvested: 0 g.
+[IMPORTANT] Simulation Statistics: Total amount of APPLE harvested: 24057 g.
+[IMPORTANT] Simulation Statistics: Total amount of GRAPE harvested: 0 g.
+[IMPORTANT] Simulation Statistics: Total amount of ALMOND harvested: 0 g.
+[IMPORTANT] Simulation Statistics: Total amount of CHERRY harvested: 0 g.
+[IMPORTANT] Simulation Statistics: Total harvest estimate still in fields and plantations: 592751 g.

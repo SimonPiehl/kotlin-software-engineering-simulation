@@ -1,0 +1,32 @@
+{
+  "tiles": [
+    {
+      "id": 1,
+      "coordinates": { "x": 0, "y": 0 },
+      "category": "PLANTATION",
+      "farm": 0,
+      "capacity": 250,
+      "plant": "APPLE",
+      "airflow": true,
+      "direction": "90"
+    },
+    {
+      "id": 0,
+      "coordinates": { "x": 2, "y": 0 },
+      "category": "FIELD",
+      "farm": 0,
+      "capacity": 500,
+      "possiblePlants": ["POTATO"],
+      "airflow": true,
+      "direction": "90"
+    },
+    {
+      "id": 14,
+      "coordinates": { "x": -1, "y": -1 },
+      "category": "FARMSTEAD",
+      "farm": 0,
+      "shed": true,
+      "airflow": false
+    }
+  ]
+}

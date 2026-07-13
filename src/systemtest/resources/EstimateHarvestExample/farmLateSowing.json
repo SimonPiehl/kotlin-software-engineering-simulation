@@ -1,0 +1,47 @@
+{
+  "farms": [
+    {
+      "id": 0,
+      "name": "Very Cool Farm",
+      "farmsteads": [0],
+      "fields": [3,4],
+      "plantations": [1,2],
+      "machines": [
+        {
+          "id": 0,
+          "name": "Tractor",
+          "actions": ["SOWING", "IRRIGATING", "HARVESTING", "CUTTING", "MOWING", "WEEDING"],
+          "plants": ["GRAPE", "POTATO", "OAT"],
+          "duration":10,
+          "location": 0
+        }
+      ],
+      "sowingPlans": [
+        {
+          "id": 0,
+          "tick": 11,
+          "plant": "POTATO",
+          "fields": [3]
+        },
+        {
+          "id": 1,
+          "tick": 36,
+          "plant": "POTATO",
+          "fields": [3]
+        },
+        {
+          "id": 2,
+          "tick": 6,
+          "plant": "OAT",
+          "fields": [4]
+        },
+        {
+          "id": 3,
+          "tick": 30,
+          "plant": "OAT",
+          "fields": [4]
+        }
+      ]
+    }
+  ]
+}

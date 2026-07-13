@@ -1,0 +1,109 @@
+/* import de.unisaarland.cs.se.selab.systemtest.selab25.basicfarmparser.FarmParserBasic10
+import de.unisaarland.cs.se.selab.systemtest.selab25.basicfarmparser.FarmParserBasic11
+import de.unisaarland.cs.se.selab.systemtest.selab25.basicfarmparser.FarmParserBasic12
+import de.unisaarland.cs.se.selab.systemtest.selab25.basicfarmparser.FarmParserBasic13
+import de.unisaarland.cs.se.selab.systemtest.selab25.basicfarmparser.FarmParserBasic14
+import de.unisaarland.cs.se.selab.systemtest.selab25.basicfarmparser.FarmParserBasic15
+import de.unisaarland.cs.se.selab.systemtest.selab25.basicfarmparser.FarmParserBasic16
+import de.unisaarland.cs.se.selab.systemtest.selab25.basicfarmparser.FarmParserBasic18
+import de.unisaarland.cs.se.selab.systemtest.selab25.basicfarmparser.FarmParserBasic19
+import de.unisaarland.cs.se.selab.systemtest.selab25.basicfarmparser.FarmParserBasic20
+import de.unisaarland.cs.se.selab.systemtest.selab25.basicfarmparser.FarmParserBasic21
+import de.unisaarland.cs.se.selab.systemtest.selab25.basicfarmparser.FarmParserBasic22
+import de.unisaarland.cs.se.selab.systemtest.selab25.basicfarmparser.FarmParserBasic23
+import de.unisaarland.cs.se.selab.systemtest.selab25.basicfarmparser.FarmParserBasic24 */
+
+
+// import de.unisaarland.cs.se.selab.systemtest.selab25.basicfarmparser.FarmParserBasic3
+
+
+/* import de.unisaarland.cs.se.selab.systemtest.selab25.basicfarmparser.FarmParserBasic4
+import de.unisaarland.cs.se.selab.systemtest.selab25.basicfarmparser.FarmParserBasic5
+import de.unisaarland.cs.se.selab.systemtest.selab25.basicfarmparser.FarmParserBasic6
+import de.unisaarland.cs.se.selab.systemtest.selab25.basicfarmparser.FarmParserBasic7
+import de.unisaarland.cs.se.selab.systemtest.selab25.basicfarmparser.FarmParserBasic8
+import de.unisaarland.cs.se.selab.systemtest.selab25.basicfarmparser.FarmParserBasic9 */
+
+/* import re
+   import random
+   import string
+   from collections import OrderedDict
+
+   def generate_random_const(existing_consts, length=8):
+       while True:
+           const_name = ''.join(random.choices(string.ascii_uppercase, k=length))
+           if const_name not in existing_consts:
+               return const_name
+
+   def process_text(text):
+       lines = text.splitlines()
+       constants_map = OrderedDict()
+       existing_const_names = set()
+       skip_line = "skipUntilExcludingCloudCategory()"
+       start_marker = "[IMPORTANT] Farm: Farm 0 starts its actions."
+       end_marker = "[IMPORTANT] Farm: Farm 0 finished its actions."
+
+       # Add constants for markers with random names
+       for marker in [start_marker, end_marker]:
+           const_name = generate_random_const(existing_const_names)
+           existing_const_names.add(const_name)
+           constants_map[marker] = const_name
+
+       output = []
+       in_block = False
+       block_lines = []
+
+       for line in lines:
+           line = line.rstrip('\n')
+
+           if line == start_marker:
+               if in_block:
+                   output.extend(_process_block(block_lines, constants_map, existing_const_names))
+                   output.append(skip_line)
+                   block_lines = []
+               in_block = True
+               block_lines.append(line)
+           elif line == end_marker:
+               if in_block:
+                   block_lines.append(line)
+                   output.extend(_process_block(block_lines, constants_map, existing_const_names))
+                   in_block = False
+                   block_lines = []
+               else:
+                   output.append(f'assertNextLine("{line}")')
+           else:
+               if in_block:
+                   block_lines.append(line)
+               else:
+                   if len(output) == 0 or output[-1] != skip_line:
+                       output.append(skip_line)
+
+       if in_block and block_lines:
+           output.extend(_process_block(block_lines, constants_map, existing_const_names))
+
+       constants_output = []
+       for orig, const in constants_map.items():
+           constants_output.append(f'const val {const} = "{orig}"')
+
+       return "\n".join(output), "\n".join(constants_output)
+
+
+   def _process_block(block_lines, constants_map, existing_const_names):
+       result = []
+       for l in block_lines:
+           if l not in constants_map:
+               const_name = generate_random_const(existing_const_names)
+               existing_const_names.add(const_name)
+               constants_map[l] = const_name
+           result.append(f"assertNextLine({constants_map[l]})")
+       return result
+
+
+   # Example usage:
+   example_text = """"""
+
+   wrapped_text, constants = process_text(example_text)
+   print(wrapped_text)
+   print("\n--- Constants ---\n")
+   print(constants)
+*/

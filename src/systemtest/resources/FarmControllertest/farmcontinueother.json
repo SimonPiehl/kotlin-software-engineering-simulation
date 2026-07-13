@@ -1,0 +1,64 @@
+{
+  "farms": [
+    {
+      "id": 0,
+      "name": "Very Cool Farm",
+      "farmsteads": [0],
+      "fields": [5,6,7,8,9],
+      "plantations": [1, 2, 3,4, 98],
+      "machines": [
+        {
+          "id": 0,
+          "name": "Tractor",
+          "actions": ["IRRIGATING"],
+          "plants": ["APPLE", "GRAPE", "CHERRY", "ALMOND", "WHEAT", "POTATO", "OAT", "PUMPKIN"],
+          "duration": 1,
+          "location": 0
+        },
+        {
+          "id": 1,
+          "name": "Tr",
+          "actions": ["SOWING"],
+          "plants": ["APPLE", "GRAPE", "CHERRY", "ALMOND", "WHEAT", "POTATO", "OAT", "PUMPKIN"],
+          "duration": 1,
+          "location": 0
+        },
+        {
+          "id": 2,
+          "name": "Tr2",
+          "actions": ["HARVESTING"],
+          "plants": ["APPLE", "GRAPE", "CHERRY", "ALMOND", "WHEAT", "POTATO", "OAT", "PUMPKIN"],
+          "duration": 1,
+          "location": 0
+        },
+        {
+          "id": 3,
+          "name": "Tr3",
+          "actions": ["WEEDING"],
+          "plants": ["APPLE", "GRAPE", "CHERRY", "ALMOND", "WHEAT", "POTATO", "OAT", "PUMPKIN"],
+          "duration": 1,
+          "location": 0
+        },
+        {
+          "id": 4,
+          "name": "Tr4",
+          "actions": ["MOWING"],
+          "plants": ["APPLE", "GRAPE", "CHERRY", "ALMOND", "WHEAT", "POTATO", "OAT", "PUMPKIN"],
+          "duration": 1,
+          "location": 0
+        },
+        {
+          "id": 5,
+          "name": "Tr5",
+          "actions": ["CUTTING"],
+          "plants": ["APPLE", "GRAPE", "CHERRY", "ALMOND", "WHEAT", "POTATO", "OAT", "PUMPKIN"],
+          "duration": 1,
+          "location": 0
+        }
+      ],
+      "sowingPlans": [
+
+      ]
+    }
+  ]
+}

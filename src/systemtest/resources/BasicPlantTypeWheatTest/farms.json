@@ -1,0 +1,29 @@
+{
+  "farms": [
+    {
+      "id": 1,
+      "name": "Very Cool Farm",
+      "farmsteads": [7],
+      "fields": [3, 4],
+      "plantations": [1, 2],
+      "machines": [
+        {
+          "id": 1,
+          "name": "Tractor",
+          "actions": ["SOWING","HARVESTING"],
+          "plants": ["WHEAT"],
+          "duration": 2,
+          "location": 7
+        }
+      ],
+      "sowingPlans": [
+        {
+          "id": 1,
+          "tick": 1,
+          "plant": "WHEAT",
+          "fields": [3, 4]
+        }
+      ]
+    }
+  ]
+}

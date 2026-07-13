@@ -1,0 +1,30 @@
+{
+  "clouds": [
+    {
+      "id": 0,
+      "location": 1,
+      "duration": 8,
+      "amount": 10000000
+    },
+    {
+      "id": 1,
+      "location": 2,
+      "duration": 8,
+      "amount": 10000000
+    },
+    {
+      "id": 2,
+      "location": 3,
+      "duration": 4,
+      "amount": 10000000
+    },
+    {
+      "id": 3,
+      "location": 4,
+      "duration": 4,
+      "amount": 10000000
+    }
+  ],
+  "incidents": [
+  ]
+}

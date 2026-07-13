@@ -1,0 +1,20 @@
+{
+  "clouds": [
+  ],
+  "incidents": [
+    {
+      "id": 0,
+      "type": "ANIMAL_ATTACK",
+      "tick": 0,
+      "location": 6,
+      "radius": 2
+    },
+    {
+      "id": 2,
+      "type": "ANIMAL_ATTACK",
+      "tick": 0,
+      "location": 4,
+      "radius": 1
+    }
+  ]
+}

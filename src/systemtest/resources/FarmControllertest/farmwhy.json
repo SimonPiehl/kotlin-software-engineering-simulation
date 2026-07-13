@@ -1,0 +1,45 @@
+{
+  "farms": [
+    {
+      "id": 0,
+      "name": "testy",
+      "farmsteads": [3],
+      "fields": [1,2,3,4,5,6],
+      "plantations": [7,8,9,10,11],
+      "machines": [
+        {
+          "id": 1,
+          "name": "Tractor",
+          "actions": ["HARVESTING"],
+          "plants": ["APPLE"],
+          "duration": 2,
+          "location": 3
+        },
+        {
+          "id": 6,
+          "name": "Tractor1",
+          "actions": ["SOWING"],
+          "plants": ["WHEAT"],
+          "duration": 2,
+          "location": 3
+        },
+        {
+          "id": 7,
+          "name": "Tractor2",
+          "actions": ["SOWING"],
+          "plants": ["WHEAT"],
+          "duration": 2,
+          "location": 3
+        }
+      ],
+      "sowingPlans": [
+        {
+          "id": 0,
+          "tick": 19,
+          "plant": "WHEAT",
+          "fields": [0, 1]
+        }
+      ]
+    }
+  ]
+}

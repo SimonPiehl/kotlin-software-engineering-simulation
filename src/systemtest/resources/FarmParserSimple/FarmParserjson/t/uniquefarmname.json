@@ -1,0 +1,41 @@
+{
+  "farms": [
+    {
+      "id": 0,
+      "name": "67",
+      "farmsteads": [0],
+      "fields": [2],
+      "plantations": [1],
+      "machines": [
+        {
+          "id": 0,
+          "name": "Tractor",
+          "actions": ["SOWING", "IRRIGATING"],
+          "plants": ["PUMPKIN", "WHEAT"],
+          "duration": 4,
+          "location": 0
+        }
+      ],
+      "sowingPlans": [
+      ]
+    },
+    { "id": 28,
+      "name": "69",
+      "farmsteads": [4],
+      "fields": [5],
+      "plantations": [6],
+      "machines": [
+        {
+          "id": 19,
+          "name": "Transformer",
+          "actions": ["SOWING", "IRRIGATING"],
+          "plants": ["PUMPKIN", "WHEAT"],
+          "duration": 4,
+          "location": 4
+        }
+      ],
+      "sowingPlans": [
+      ]
+    }
+  ]
+}

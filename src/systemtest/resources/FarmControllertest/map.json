@@ -1,0 +1,120 @@
+{
+  "tiles": [
+    {
+      "id": 0,
+      "coordinates": { "x": -1, "y": -1 },
+      "category": "FARMSTEAD",
+      "farm": 0,
+      "shed": true,
+      "airflow": false
+    },
+    {
+      "id": 69,
+      "coordinates": { "x": 69, "y": 69 },
+      "category": "FARMSTEAD",
+      "farm": 0,
+      "shed": true,
+      "airflow": false
+    },
+    {
+      "id": 1,
+      "coordinates": { "x": 0, "y": 0 },
+      "category": "FIELD",
+      "farm": 0,
+      "capacity": 8000,
+      "possiblePlant": ["WHEAT"],
+      "airflow": false
+    },
+    {
+      "id": 2,
+      "coordinates": { "x": 2, "y": 0 },
+      "category": "FIELD",
+      "farm": 0,
+      "capacity": 10000,
+      "possiblePlants": ["PUMPKIN", "WHEAT"],
+      "airflow": false
+    },
+    {
+      "id": 3,
+      "coordinates": { "x": 4, "y": 0 },
+      "category": "FIELD",
+      "farm": 0,
+      "capacity": 800,
+      "possiblePlants": ["WHEAT"],
+      "shed": true,
+      "airflow": false
+    },
+    {
+      "id": 4,
+      "coordinates": { "x": 6, "y": 0 },
+      "category": "FIELD",
+      "farm": 0,
+      "capacity": 8000,
+      "possiblePlant": ["OAT"],
+      "airflow": false
+    },
+    {
+      "id": 5,
+      "coordinates": { "x": 8, "y": 0 },
+      "category": "FIELD",
+      "farm": 0,
+      "capacity": 10000,
+      "possiblePlants": ["POTATO"],
+      "airflow": false
+    },
+    {
+      "id": 6,
+      "coordinates": { "x": 10, "y": 0 },
+      "category": "FIELD",
+      "farm": 0,
+      "capacity": 10000,
+      "possiblePlants": ["PUMPKIN"],
+      "airflow": false
+    },
+    {
+      "id": 7,
+      "coordinates": { "x": 12, "y": 0},
+      "category": "PLANTATION",
+      "farm": 0,
+      "capacity": 100,
+      "plant": "APPLE",
+      "airflow": false
+    },
+    {
+      "id": 8,
+      "coordinates": { "x": 14, "y": 0},
+      "category": "PLANTATION",
+      "farm": 0,
+      "capacity": 100,
+      "plant": "APPLE",
+      "airflow": false
+    },
+    {
+      "id": 9,
+      "coordinates": { "x": 16, "y": 0},
+      "category": "PLANTATION",
+      "farm": 0,
+      "capacity": 100,
+      "plant": "GRAPE",
+      "airflow": false
+    },
+    {
+      "id": 10,
+      "coordinates": { "x": 18, "y": 0},
+      "category": "PLANTATION",
+      "farm": 0,
+      "capacity": 100,
+      "plant": "ALMOND",
+      "airflow": false
+    },
+    {
+      "id": 11,
+      "coordinates": { "x": 20, "y": 0},
+      "category": "PLANTATION",
+      "farm": 0,
+      "capacity": 100,
+      "plant": "CHERRY",
+      "airflow": false
+    }
+  ]
+}

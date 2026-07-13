@@ -1,0 +1,60 @@
+{
+  "tiles": [
+    {
+      "id": 1,
+      "coordinates": { "x": 6, "y": 6 },
+      "category": "PLANTATION",
+      "farm": 1,
+      "capacity": 8000,
+      "plant": "APPLE",
+      "airflow": true,
+      "direction": "90"
+    },
+    {
+      "id": 2,
+      "coordinates": { "x": 0, "y": 0 },
+      "category": "ROAD",
+      "airflow": false
+    },
+    {
+      "id": 3,
+      "coordinates": { "x": 2, "y": 0 },
+      "category": "ROAD",
+      "airflow": false
+    },
+    {
+      "id": 4,
+      "coordinates": { "x": 4, "y": 0 },
+      "category": "FIELD",
+      "farm": 1,
+      "capacity": 10000,
+      "possiblePlants": ["PUMPKIN", "WHEAT"],
+      "airflow": false
+    },
+    {
+      "id": 5,
+      "coordinates": { "x": 6, "y": 0 },
+      "category": "ROAD",
+      "airflow": false
+    },
+    {
+      "id": 6,
+      "coordinates": { "x": 8, "y": 0 },
+      "category": "ROAD",
+      "airflow": false
+    },
+    {
+      "id": 7,
+      "coordinates": { "x": 10, "y": 0 },
+      "category": "VILLAGE"
+    },
+    {
+      "id": 8,
+      "coordinates": { "x": 5, "y": 5 },
+      "category": "FARMSTEAD",
+      "farm": 1,
+      "airflow": false,
+      "shed": true
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "tiles": [
+    {
+      "id": 0,
+      "coordinates": { "x": -1, "y": -1 },
+      "category": "FARMSTEAD",
+      "farm": 0,
+      "shed": true,
+      "airflow": false
+    },
+    {
+      "id": 1,
+      "coordinates": { "x": 0, "y": 0 },
+      "category": "PLANTATION",
+      "farm": 0,
+      "capacity": 101,
+      "plant": "GRAPE",
+      "airflow": false
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "clouds": [
+  ],
+  "incidents": [
+    {
+      "id": 0,
+      "type": "BROKEN_MACHINE",
+      "tick": 0,
+      "duration": 1,
+      "machineId": 0
+    }
+  ]
+}

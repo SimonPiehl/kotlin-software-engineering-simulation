@@ -1,0 +1,103 @@
+{
+  "farms": [
+    {
+      "id": 1,
+      "name": "Very Cool Farm",
+      "farmsteads": [9],
+      "fields": [5,6,7,8],
+      "plantations": [1,2,3,4],
+      "machines": [
+        {
+          "id": 1,
+          "name": "Tractor Wheat",
+          "actions": ["SOWING","IRRIGATING","HARVESTING"],
+          "plants": ["WHEAT"],
+          "duration": 7,
+          "location": 9
+        },
+        {
+          "id": 2,
+          "name": "Tractor Pot",
+          "actions": ["SOWING","HARVESTING","IRRIGATING"],
+          "plants": ["POTATO"],
+          "duration": 7,
+          "location": 9
+        },
+        {
+          "id": 3,
+          "name": "Tractor Oat",
+          "actions": ["SOWING","HARVESTING","IRRIGATING"],
+          "plants": ["OAT"],
+          "duration": 7,
+          "location": 9
+        },
+        {
+          "id": 4,
+          "name": "Tractor Pump",
+          "actions": ["SOWING","HARVESTING","IRRIGATING"],
+          "plants": ["PUMPKIN"],
+          "duration": 7,
+          "location": 9
+        },
+        {
+          "id": 5,
+          "name": "Tractor Apple",
+          "actions": ["MOWING","HARVESTING","IRRIGATING"],
+          "plants": ["APPLE"],
+          "duration": 7,
+          "location": 9
+        },
+        {
+          "id": 6,
+          "name": "Tractor Cherry",
+          "actions": ["MOWING","HARVESTING","IRRIGATING"],
+          "plants": ["CHERRY"],
+          "duration": 7,
+          "location": 9
+        },
+        {
+          "id": 7,
+          "name": "Tractor Almond",
+          "actions": ["MOWING","HARVESTING","IRRIGATING"],
+          "plants": ["ALMOND"],
+          "duration": 7,
+          "location": 9
+        },
+        {
+          "id": 8,
+          "name": "Tractor Grape",
+          "actions": ["MOWING","HARVESTING","IRRIGATING"],
+          "plants": ["GRAPE"],
+          "duration": 7,
+          "location": 9
+        }
+      ],
+      "sowingPlans": [
+        {
+          "id": 1,
+          "tick": 0,
+          "plant": "WHEAT",
+          "fields": [5]
+        },
+        {
+          "id": 2,
+          "tick": 0,
+          "plant": "OAT",
+          "fields": [7]
+        },
+        {
+          "id": 3,
+          "tick": 0,
+          "plant": "PUMPKIN",
+          "fields": [8]
+        },
+        {
+          "id": 4,
+          "tick": 0,
+          "plant": "POTATO",
+          "fields": [6]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "farms": [
+    {
+      "id": 0,
+      "name": "Very Cool Farm",
+      "farmsteads": [0],
+      "fields": [2],
+      "plantations": [1],
+      "machines": [
+        {
+          "id": 0,
+          "name": "Tractor",
+          "actions": ["SOWING", "IRRIGATING"],
+          "plants": ["PUMPKIN", "WHEAT"],
+          "duration": 4,
+          "location": 0
+        }
+      ],
+      "sowingPlans": [
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Not Cool Farm",
+      "farmsteads": [3, 0],
+      "fields": [5],
+      "plantations": [4],
+      "machines": [
+        {
+          "id": 1,
+          "name": "Bulldozer",
+          "actions": ["SOWING", "IRRIGATING"],
+          "plants": ["PUMPKIN", "WHEAT"],
+          "duration": 4,
+          "location": 3
+        }
+      ],
+      "sowingPlans": [
+      ]
+    }
+  ]
+}
