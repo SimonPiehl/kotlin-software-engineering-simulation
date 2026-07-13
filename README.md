@@ -1,6 +1,6 @@
 # Saardew Valley — Organic Farming Simulation
 
-Tick-based farming simulation engine built in Kotlin as part of the Software Engineering Lab at Saarland University. The simulation models organic farms across a tile-based map with dynamic weather, machine scheduling, plant growth cycles, and random incidents — all driven by a deterministic, greedy planning algorithm.
+Tick-based farming simulation engine built in Kotlin as part of the Software Engineering Lab at Universität des Saarlandes. The simulation models organic farms across a tile-based map with dynamic weather, machine scheduling, plant growth cycles, and random incidents — all driven by a deterministic, greedy planning algorithm.
 
 This was a group project. Below are the components I personally designed, implemented, and tested.
 
@@ -20,7 +20,3 @@ This was a group project. Below are the components I personally designed, implem
 
 Kotlin · Java · Gradle · JUnit · Mockito · detekt · UML
 
-
-## Background
-
-Developed as part of the Software Engineering Lab at Saarland University. Group project — the components listed above are my individual contributions. The simulation spec was intentionally changed mid-project after the design review to test adaptability of the architecture.
