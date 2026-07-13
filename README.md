@@ -4,6 +4,11 @@ Tick-based farming simulation engine built in Kotlin as part of the Software Eng
 
 This was a group project. Below are the components I personally designed, implemented, and tested.
 
+## Architecture
+
+![UML Diagram](docs/UML-ClassDiagram.png)
+
+
 ## What I Implemented
 
 - **TileParser** (`src/main/kotlin/de/unisaarland/cs/se/selab/parser/TileParser.kt`) — parses and validates the full tile-based map configuration from JSON, including tile categories, coordinates, accessory properties (airflow, capacity, plant, possiblePlants, shed), and inter-tile adjacency constraints
@@ -18,5 +23,5 @@ This was a group project. Below are the components I personally designed, implem
 
 ## Tech Stack
 
-Kotlin · Java · Gradle · JUnit · Mockito · detekt · UML
+Kotlin · Java · Gradle · JUnit · Mockito · detekt · UML · Git
 
